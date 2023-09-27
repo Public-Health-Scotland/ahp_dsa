@@ -1,6 +1,6 @@
 # AHP MSK Data Science Accelerator
 
-PHS shiny app template
+PHS shiny app template.
 
 The AHP MSK data science accelerator app folder is organised as below. *While under development, this structure may have to change.*
 ## Instructions for use 
